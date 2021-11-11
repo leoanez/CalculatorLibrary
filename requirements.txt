@@ -60,8 +60,6 @@ pyflakes==2.2.0
 pyftpdlib==1.5.6
 Pygments==2.6.1
 pyparsing==2.4.7
-PyQt5==5.15.0
-PyQt5-sip==12.8.0
 pysmi==0.3.4
 pysnmp==4.4.12
 pytest==6.2.2
