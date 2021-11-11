@@ -38,7 +38,6 @@ Markdown==3.2.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
 multidict==4.7.5
-netaddr==0.7.19
 packaging==20.3
 parso==0.7.0
 pathspec==0.8.0
